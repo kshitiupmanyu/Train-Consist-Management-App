@@ -17,10 +17,10 @@ public class TrainConsistManagementApp {
         bogies.add("BG103");
         bogies.add("BG104");
 
-        bogies.add("BG101"); // duplicate
-        bogies.add("BG102"); // duplicate
+        bogies.add("BG101");
+        bogies.add("BG102");
 
-        // Display result
+
         System.out.println("Bogie IDs After Insertion:");
         System.out.println(bogies + "\n");
 
